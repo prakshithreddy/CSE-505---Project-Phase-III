@@ -7,4 +7,4 @@ In this example, we initialize each problem with 50 persons and increasing attri
 
 Usage - Install YAP 6.3.3 or above to run PFL programs, problog can be installed by running "pip install problog"(problog is built in python, available in python 2.7 or 3.x).
 
-Predicates from input files are to be copied in to the .pl files before running them and their performance can be tested.
+Predicates from input files are to be copied in to the .pl files before running them and their performance can be tested, input1 contains 2 attributes, and an extra attribute is added in each other input file. This would result in 10 data points, which would be necessary to plot the graph.
