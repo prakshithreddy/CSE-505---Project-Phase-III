@@ -1,5 +1,5 @@
 # CSE-505---Project-Phase-III
-Verifying the results of paper - "Lifted Variable Elimination for probabilistic logic programming".
+Verifying the results of paper - "Lifted Variable Elimination for probabilistic logic programming" by ELLENA BELLODI, RICARDO ZESE, VITOR SANTOS COSTA, FABRIZIO RIGUZI..
 
 The workshop attributes example described in the paper Milch et al. 2008 is used to compare ProbLog and PFL using GC-FOVE to test the performance of the newly included het and deputy factors.
 
